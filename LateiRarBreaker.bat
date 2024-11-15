@@ -1,5 +1,5 @@
 @echo off
-title Lateı RAR Breaker
+title Latei RAR Breaker
 copy "C:\Program Files\WinRAR\Unrar.exe"
 set reset=[0m
 set red=[31m
